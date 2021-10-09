@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in WEB DEVELOPMENT, I love server-side programming, but sometimes I like spending my time on client-side programming.
 
-- 🌱 I’m currently learning different parts of SpringBoot and then I will learn AngularJs.
+- 🌱 I’m currently learning different parts of SpringBoot and then I will learn ReactJs.
 
 - 💞️ I’m looking to collaborate with companies in all of the world as a remote JAVA Springboot developer.
 
